@@ -7,4 +7,4 @@ mouse over + spacebar: indica objetivo (repetível).
 
 A ideia principal foi calcular o caminho reverso, começando do objetivo e preenchendo cada "objeto esquina" aos poucos,
 com informação sobre a direção do objetivo, construindo uma guia para o mapa inteiro. Isso involveu inúmeras referencias
-à objetos vizinhos e iterações de arrays com várias dimensões.
+à objetos vizinhos e iterações em arrays com várias dimensões.
